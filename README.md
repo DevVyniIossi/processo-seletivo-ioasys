@@ -89,17 +89,17 @@
 
 ## 	**Resultado**
 
-- Página Login:
+- Página Login/Erro de login:
 
-  ![preview-signin](C:\Users\Usuario\Downloads\preview-signin.jpg)
-
+  ![tela-de-erro](https://user-images.githubusercontent.com/100815122/194638372-4bfd9ba5-5206-403b-99c9-4af4eeebc738.png)
+  
 - Dashboard:
 
-  ![preview-showcase](C:\Users\Usuario\Downloads\preview-showcase.jpg)
+  ![preview-showcase](https://user-images.githubusercontent.com/100815122/194638058-3fc8119d-71b1-4313-88dd-b7406ba8ee1a.jpg)
 
 - Detalhamento:
 
-  ![preview-modal](C:\Users\Usuario\Downloads\preview-modal.jpg)
+  ![preview-modal](https://user-images.githubusercontent.com/100815122/194638062-a9666026-6a7d-4504-9191-22460d6e6fa1.jpg)
 
 ## Como executar:
 
